@@ -27,7 +27,7 @@ called "cpp" on your system;  you might want to edit this file to set up
 other things as well, like paths, etc.
 
 
-# A word abut "cross-platform":
+# A word about "cross-platform"
 
 Elisa was developed on an Apple Power Mac, running OS X 10.2.8, and using
 the Mac port of the ROTOR Shared Source CLI package from Microsoft.
