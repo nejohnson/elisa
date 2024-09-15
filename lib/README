@@ -1,0 +1,13 @@
+
+  Basic support library for Elisa Compiler
+
+***  Neil Johnson <neil@njohnson.co.uk>  ***
+
+To use the functions in this library you must include them into
+your source code.
+
+For example, if your platform supports the C preprocessor "cpp" then
+you can use it with the "-I${PATH_TO_ELISA}/lib" flag and use
+	#include <printnum.el>
+in your source code.
+

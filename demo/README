@@ -1,0 +1,8 @@
+
+A simple demo, including the two library functions.
+To make the demo, run the shell script "makeit".
+This will run the Elisa shell script in the parent directory.
+It requires a C preprocessor called "cpp" on your system.
+
+Then execute the binary, e.g.
+	clix arrays
